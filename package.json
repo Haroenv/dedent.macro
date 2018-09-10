@@ -1,7 +1,7 @@
 {
   "name": "dedent.macro",
   "description": "A babel-macro for dedenting template strings",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "main": "index.js",
   "repository": "https://github.com/Haroenv/dedent.macro.git",
   "author": "Haroen Viaene <hello@haroen.me>",
